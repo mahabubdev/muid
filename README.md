@@ -1,4 +1,4 @@
-# myUID - Simple UID generator by @mahabubdev
+# myUID - Simple UID generator
 
 Just install it and use for generating simple uid
 
