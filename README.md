@@ -30,7 +30,7 @@ How it returns
 26893d11f7d624
 c8bf02c8a2088
 b3b27c18df4a3
-b3b27c18df4a3
+
 
 
 // in base 32
