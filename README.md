@@ -12,24 +12,27 @@ Then...
 
 ```
 const myuid = require('myuid');
-// by default the base number is 16.
-myuid();
 
-// or
-// supports only 2->32 as the base number.
-myuid(8); 
+myuid(); // returns the generated id
 ```
 
 in ES6:
 
 ```
 import myuid from 'myuid';
-// by default the base number is 16.
-myuid(); 
 
-// or
-// supports only 2->32 as the base number.
-myuid(8); 
+myuid(); // returns the generated id
+```
+
+# Options
+```
+/*----------------------------------------*
+* by default the base number is 16.
+* supports only 2->32 as the base number.
+*-----------------------------------------*/
+myuid(6); // computing with base number 6
+myuid(8); // computing with base number 8
+myuid(12); // computing with base number 12
 ```
 
 How it returns 
