@@ -1,5 +1,5 @@
 {
-  "name": "muid",
+  "name": "myuid",
   "version": "1.0.0",
   "description": "Unique ID generator by mahabubdev",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahabubdev/muid.git"
+    "url": "git+https://github.com/mahabubdev/myuid.git"
   },
   "keywords": [
-    "muid",
+    "myuid",
     "uid",
     "unique-id",
     "id",
@@ -20,7 +20,7 @@
   "author": "mahabubdev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mahabubdev/muid/issues"
+    "url": "https://github.com/mahabubdev/myuid/issues"
   },
-  "homepage": "https://github.com/mahabubdev/muid#readme"
+  "homepage": "https://github.com/mahabubdev/myuid#readme"
 }

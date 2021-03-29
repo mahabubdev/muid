@@ -1,4 +1,4 @@
-function mUID (baseNum = 16) {
+function myUID (baseNum = 16) {
     /**--------------------------------------*
      * baseNum is only ranged for 2 -> 32
      * baseNum can accept only Integer value
@@ -19,4 +19,4 @@ function mUID (baseNum = 16) {
     return idKey;
 }
 
-module.exports = mUID;
+module.exports = myUID;
