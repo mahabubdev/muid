@@ -1,0 +1,26 @@
+{
+  "name": "muid",
+  "version": "1.0.0",
+  "description": "Unique ID generator by mahabubdev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahabubdev/muid.git"
+  },
+  "keywords": [
+    "muid",
+    "uid",
+    "unique-id",
+    "id",
+    "mahabubdev"
+  ],
+  "author": "mahabubdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahabubdev/muid/issues"
+  },
+  "homepage": "https://github.com/mahabubdev/muid#readme"
+}
