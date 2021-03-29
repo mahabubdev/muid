@@ -5,23 +5,31 @@ Just install it and use for generating simple uid
 # Installation
 
 `npm install myuid --save`
+<br> or <br>
+`yarn add myuid`
 
 Then...
 
 ```
 const myuid = require('myuid');
-myuid(); // by default the base number is 16.
-or
-myuid(8); // supports only 2->32 as the base number.
+// by default the base number is 16.
+myuid();
+
+// or
+// supports only 2->32 as the base number.
+myuid(8); 
 ```
 
 in ES6:
 
 ```
 import myuid from 'myuid';
-myuid(); // by default the base number is 16.
-or
-myuid(8); // supports only 2->32 as the base number.
+// by default the base number is 16.
+myuid(); 
+
+// or
+// supports only 2->32 as the base number.
+myuid(8); 
 ```
 
 How it returns 
@@ -30,8 +38,6 @@ How it returns
 26893d11f7d624
 c8bf02c8a2088
 b3b27c18df4a3
-
-
 
 // in base 32
 ct59nvd0sco
